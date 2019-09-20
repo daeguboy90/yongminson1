@@ -33,6 +33,12 @@ body{
   margin:0;
 }
 
+#wrong{
+  text-align: center;
+
+  padding:20px;
+}
+
 #mainpage{
   font-size: 15px;
   text-align: center;
